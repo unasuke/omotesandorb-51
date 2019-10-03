@@ -1,6 +1,6 @@
-# TODO: スライドのタイトル
+# omotesandorb #51
 
-TODO: スライドの説明
+https://omotesandorb.connpass.com/event/149080/
 
 ## 作者向け
 
